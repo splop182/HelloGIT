@@ -28,5 +28,28 @@ esta es otra _forma_
 - Lista desordenada 
 - Lista desordenada 1 
 
+# Imagen
 
+![Logo de GIT](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+# Code Snipers Falto las comillas externas 
+JSON
+
+
+
+´´´
+
+# Tablas
+|Nombres|Apellidos|Dirección|
+|-------|---------|---------|
+|Carlos|Diaz|Grau|
+|Alex|Cabanillas|av gonzales|
+|fatima|wong|Eleuterio 100|
+
+
+# Cita
+
+Esto es el texto original
+
+> Esta es la cita
 soy un readme .
